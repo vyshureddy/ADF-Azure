@@ -1,0 +1,9 @@
+{
+	"name": "Az-pracadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18adaf95-81db-4ec6-b325-15df53061155",
+		"tenantId": "ee1cb653-6dee-4ab4-b1da-6f7dc6c9cf24"
+	}
+}
