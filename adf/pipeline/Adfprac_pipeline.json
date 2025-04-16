@@ -1,0 +1,7 @@
+{
+	"name": "Adfprac_pipeline",
+	"properties": {
+		"description": "Azure Data Factory practice pipeline",
+		"annotations": []
+	}
+}
